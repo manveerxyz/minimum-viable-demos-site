@@ -1,1 +1,1 @@
-# minimum-viable-demos-site
+# Minimum Viable Demos Site
